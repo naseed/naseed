@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently Student at 1337 Rabat and part of 42 Network
+[![niboutta's 42 stats](https://badge.mediaplus.ma/darkblue/niboutta)](https://github.com/oakoudad/badge42)
 
 
 ## 🌐 Socials:
